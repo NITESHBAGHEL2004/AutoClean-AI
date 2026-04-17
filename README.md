@@ -17,6 +17,7 @@ AutoCleanAI/
 ├── requirements.txt ← Python dependencies
 └── README.md
 ```
+DEMO PICTURES
 ![Alt Text](Screenshot1.png)
 ---
 
