@@ -18,7 +18,11 @@ AutoCleanAI/
 └── README.md
 ```
 DEMO PICTURES
+
 ![Alt Text](Screenshot1.png)
+![Alt Text](Screenshot2.png)
+![Alt Text](Screenshot3.png)
+![Alt Text](Screenshot4.png)
 ---
 
 ## 🚀 Quick Start
