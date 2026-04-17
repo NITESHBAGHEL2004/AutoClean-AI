@@ -17,7 +17,7 @@ AutoCleanAI/
 ├── requirements.txt ← Python dependencies
 └── README.md
 ```
-
+![Alt Text]()
 ---
 
 ## 🚀 Quick Start
